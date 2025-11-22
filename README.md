@@ -1,4 +1,4 @@
-# LDD Prompt Injection Figures (Supplementary Material)
+# Label Disguise Defense Figures (Supplementary Material)
 
 This repository provides the result figures accompanying the paper:
 
