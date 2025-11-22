@@ -6,13 +6,11 @@ This repository provides the result figures accompanying the paper:
 
 These visualizations serve as supplementary material for the paper and illustrate the empirical performance of the evaluated models under various prompting and attack conditions.
 
----
 
 ## Overview
 
 The repository contains **80 PNG figures**, each corresponding to a specific model–alias pair combination. The figures summarize the models’ behavior in controlled experimental settings designed to assess robustness against prompt injection.
 
----
 
 ## Figure Contents
 
@@ -27,7 +25,6 @@ Each figure presents **shot-wise accuracy curves** (evaluated at 2, 4, 6, and 8 
 ### 3. LDD-Protected Performance
 - Performance when applying **Label Disguise Defense (LDD)** using selected alias label pairs, demonstrating the defense’s ability to preserve intended task semantics.
 
----
 
 ## Models and Alias Label Pairs
 
@@ -38,14 +35,12 @@ Figures are organized by:
 
 Each combination yields a separate figure for comprehensive comparison.
 
----
 
 ## Reproducibility Notes
 
 The figures in this repository directly correspond to the experiments described in the paper.  
 All model prompts, attack instructions, alias mappings, and evaluation protocol details are documented in the methodology section of the manuscript.
 
----
 
 ## Citation
 
